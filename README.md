@@ -21,25 +21,9 @@ This experiment helps in:
 - Generating actionable insights from multiple AI systems
 
 # Prompt
-```text
-Write a Python program that integrates with multiple AI tools such as OpenAI and Google Gemini using APIs. 
 
-The program should:
-1. Send the same prompt to multiple AI models
-2. Collect responses from each AI tool
-3. Compare the outputs based on response length and quality
-4. Display the responses clearly
-5. Generate actionable insights from the comparison
+> Develop a Python program that integrates with multiple AI tools, such as OpenAI and Google Gemini, through their respective APIs. The program should accept a user prompt and send the same prompt to multiple AI models. It should then collect and display the responses from each AI tool in a clear and organized manner. The application must compare the generated outputs based on factors such as response length, relevance, and overall quality. Based on this comparison, the program should generate actionable insights that help users understand the strengths and differences of each model's response. The implementation should include separate functions for interacting with each AI tool, proper API integration using Python, robust error handling to manage API failures or invalid responses, and a comparison module for analyzing the outputs. The code should be simple, beginner-friendly, well-commented, and easy to understand. Additionally, provide a sample execution demonstrating the input prompt, responses from different AI models, the comparison results, and the actionable insights generated from the analysis.
 
-Include:
-- API integration using Python
-- Functions for each AI tool
-- Error handling
-- Output comparison
-- Sample execution
-
-Use simple and well-commented Python code suitable for beginners.
-```
 
 # Requirements
 
