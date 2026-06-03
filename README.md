@@ -237,20 +237,7 @@ Using multiple AI tools improves reliability and provides diverse perspectives.
 
 # Analysis and Discussion
 
-| Feature | OpenAI | Gemini |
-|----------|---------|---------|
-| Response Quality | High | High |
-| Response Length | Detailed | Detailed |
-| Accuracy | High | High |
-| Speed | Fast | Fast |
-| Ease of Use | Easy API | Easy API |
-
-## Discussion
-- OpenAI generated structured and informative responses.
-- Gemini produced concise and context-aware outputs.
-- Both AI tools provided useful insights for the same prompt.
-- Comparing multiple AI tools improves understanding of AI response behavior.
-- API integration helps automate intelligent applications efficiently.
+<img width="965" height="774" alt="image" src="https://github.com/user-attachments/assets/81694e5c-703a-4c2a-9602-34e5c097db8a" />
 
 ---
 
