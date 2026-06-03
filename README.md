@@ -240,7 +240,11 @@ Using multiple AI tools improves reliability and provides diverse perspectives.
 <img width="965" height="774" alt="image" src="https://github.com/user-attachments/assets/81694e5c-703a-4c2a-9602-34e5c097db8a" />
 
 ---
+# Actionable Insights
 
+<img width="789" height="380" alt="image" src="https://github.com/user-attachments/assets/bc559318-035b-4251-9122-3d4b06c65b00" />
+
+---
 # Conclusion
 The experiment successfully demonstrated Python code integration with multiple AI tools using APIs. The outputs from OpenAI and Gemini were compared and analyzed to generate useful insights. This experiment improved understanding of API handling, AI model comparison, and automation techniques.
 
